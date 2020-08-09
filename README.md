@@ -1,10 +1,12 @@
 ### Hi there 👋
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taryll&layout=compact&theme=radical&title_color=ffffff)  |  ![](https://github-readme-stats.vercel.app/api?username=taryll&show_icons=true&theme=radical&title_color=32CD32)
-:-----------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:
+
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taryll&layout=compact&theme=radical&title_color=ffffff" width=400 /> |<img src="https://github-readme-stats.vercel.app/api?username=taryll&show_icons=true&theme=radical&title_color=32CD32" width=400 /> |
+|--------------------------------------------------------------------|--------------------------------------------------------------------------------|
 <!--
 **taryll/taryll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=taryll&layout=compact&theme=radical&title_color=ffffff)  |  ![](https://github-readme-stats.vercel.app/api?username=taryll&show_icons=true&theme=radical&title_color=32CD32)
+:-----------------------------------------------------------------------------------------:|:----------------------------------------:
 
 
 
