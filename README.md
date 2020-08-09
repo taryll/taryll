@@ -1,11 +1,12 @@
 ### Hi there 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taryll&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Taryll's github stats](https://github-readme-stats.vercel.app/api?username=taryll&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=taryll&layout=compact&theme=radical&title_color=ffffff)  |  ![](https://github-readme-stats.vercel.app/api?username=taryll&show_icons=true&theme=radical&title_color=32CD32)
+:-----------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:
 <!--
 **taryll/taryll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
